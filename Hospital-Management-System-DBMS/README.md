@@ -1,13 +1,13 @@
-# Hospital-Management-System-DBMS
-<b>Link</b> : https://github.com/Hari123prakash/Hospital-Management-System-DBMS
+# Hosital-Management-System-DBMS
+<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
 
 <pre>
-Name: Hari prakash
+Name: Hrishikesh Athalye
 MIS: 111803154
 Class : TY Comp Div 2
 </pre>
 
-Hospital Management System made for Sem 5.<br>
+Hospital Management System made for Sem 5 DBMS Course Project.<br>
 Hospitals interact with a lot of people in a day and there are various activities involved in day to day operations of hospitals, for example booking of appointments, managing doctor schedules, managing patient diagnoses, managing medical histories of patients, etc. The aim of this project is to show how data related to these tasks can be made easier to manage using databases.
 
 <b>Technologies Used:</b>
@@ -18,10 +18,10 @@ Database : MySQL
 </pre>
 
 <b>ER Diagram :</b>
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/myer.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/myer.png)
 
 <b>Relational Schemas :</b>
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/schema.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/schema.png)
 
 <b>Patient Side Features :</b>
 
@@ -55,40 +55,40 @@ Database : MySQL
 
 <b>Screenshots :</b>
 1. Patient registering on the system:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientRegistration.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientRegistration.png)
 
 2. Doctor registering on the system:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorRegistration.png)
 
 3. Log In Screen:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/LogInScreen.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/LogInScreen.png)
 
 4. Password Reset Screen:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/PasswordReset.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PasswordReset.png)
 
 5. Patient Home Screen:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHome.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHome.png)
 
 6. Patient Viewing History:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHistory.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientHistory.png)
 
 7. Patient Viewing Appointments:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientViewingAppt.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/PatientViewingAppt.png)
 
 8. Patient Scheduling Appointment:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/SchedulingAppt.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/SchedulingAppt.png)
 
 9. Doctor Home Screen:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorHome.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorHome.png)
 
 10. Doctor Viewing Appointment:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorViewingAppt.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/DoctorViewingAppt.png)
 
 11. Doctor Giving Diagnosis:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/Diagnosis.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/Diagnosis.png)
 
 12. Doctor Viewing Patient History:
-![alt text](https://github.com/Hari123prakash/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
+![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
 
 <b>Instructions to run:</b>
 
