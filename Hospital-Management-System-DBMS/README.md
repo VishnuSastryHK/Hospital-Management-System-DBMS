@@ -1,9 +1,7 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
 
 <pre>
 Name: Hariprakash
-
 </pre>
 
 Hospital Management System made for Sem 5 .<br>
@@ -89,10 +87,3 @@ Database : MySQL
 12. Doctor Viewing Patient History:
 ![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Screenshots/ViewingPatientHistory.png)
 
-<b>Instructions to run:</b>
-
-    1. Run "npm install" in frontend and backend directories.
-    
-    2. Run "npm start" first in the backend and then in the frontend directory.
-    
-    3. Access localhost:3000 from the browser.
